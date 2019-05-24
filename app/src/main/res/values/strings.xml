@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">YouChat</string>
+    <string name="enter_name">Enter name</string>
+    <string name="already_registered_login_here">Already registered? Login here.</string>
+    <string name="register">Register</string>
+    <string name="enter_password">Enter password (Min. 6 character)</string>
+    <string name="enter_email">Enter email</string>
+    <string name="not_yet_registered_register_here">Not yet registered? Register here.</string>
+    <string name="login">Login</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="all_users">All Users</string>
+    <string name="display_name">Display Name</string>
+    <string name="i_am_using_youchat">I am using YouChat!</string>
+    <string name="change_image">Change Image</string>
+    <string name="change_status">Change Status</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="send_friend_request">Send Friend Request</string>
+    <string name="about_project">About Project</string>
+    <string name="visit_my_github_account">Visit my Github Account</string>
+</resources>
